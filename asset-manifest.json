@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/week22-1/static/js/main.76bacca5.chunk.js",
-    "main.js.map": "/week22-1/static/js/main.76bacca5.chunk.js.map",
+    "main.js": "/week22-1/static/js/main.c3f531cb.chunk.js",
+    "main.js.map": "/week22-1/static/js/main.c3f531cb.chunk.js.map",
     "runtime-main.js": "/week22-1/static/js/runtime-main.8be97a00.js",
     "runtime-main.js.map": "/week22-1/static/js/runtime-main.8be97a00.js.map",
     "static/js/2.724bb486.chunk.js": "/week22-1/static/js/2.724bb486.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.8be97a00.js",
     "static/js/2.724bb486.chunk.js",
-    "static/js/main.76bacca5.chunk.js"
+    "static/js/main.c3f531cb.chunk.js"
   ]
 }
